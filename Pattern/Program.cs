@@ -87,6 +87,9 @@ namespace Pattern_Rachkova_Starikova
     public class DiscountCalculator
     {
         public IDiscountCompatibleRule _discountCompatibleRule;
+        public List<IDiscount> _discounts;
+        public void GetAllDiscount()
+        { }
 
     }
     public class Purchase
