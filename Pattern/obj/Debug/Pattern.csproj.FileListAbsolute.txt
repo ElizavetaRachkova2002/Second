@@ -6,3 +6,10 @@ C:\Users\rachk\source\repos\Pattern\Pattern\obj\Debug\Pattern.csproj.SuggestedBi
 C:\Users\rachk\source\repos\Pattern\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
 C:\Users\rachk\source\repos\Pattern\Pattern\obj\Debug\Pattern.exe
 C:\Users\rachk\source\repos\Pattern\Pattern\obj\Debug\Pattern.pdb
+Z:\Документы\Desktop\Скидки\Second\Pattern\bin\Debug\Pattern.exe.config
+Z:\Документы\Desktop\Скидки\Second\Pattern\bin\Debug\Pattern.exe
+Z:\Документы\Desktop\Скидки\Second\Pattern\bin\Debug\Pattern.pdb
+Z:\Документы\Desktop\Скидки\Second\Pattern\obj\Debug\Pattern.csprojAssemblyReference.cache
+Z:\Документы\Desktop\Скидки\Second\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+Z:\Документы\Desktop\Скидки\Second\Pattern\obj\Debug\Pattern.exe
+Z:\Документы\Desktop\Скидки\Second\Pattern\obj\Debug\Pattern.pdb

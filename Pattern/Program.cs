@@ -88,7 +88,7 @@ namespace Pattern_Rachkova_Starikova
     {
         public IDiscountCompatibleRule _discountCompatibleRule;
         public List<IDiscount> _discounts;
-        public void GetAllDiscount()
+        public void GetAllDiscount(List<ItemWithCost> items)
         { }
 
     }
@@ -97,6 +97,7 @@ namespace Pattern_Rachkova_Starikova
         List<ItemWithCost> _purchase_items;
 
         DiscountCalculator _discountCalculator;
+        
         public decimal GetTotalCost()
         {
             decimal total_Sum = 0;
