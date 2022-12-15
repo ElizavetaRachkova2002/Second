@@ -80,16 +80,30 @@ namespace Pattern_Rachkova_Starikova
 
     }
 
+  
     public interface IDiscountCompatibleRule
+
     {
         bool IsCompatible(IDiscount d1, IDiscount d2);
     }
+
+
     public class DiscountCalculator
     {
-        public IDiscountCompatibleRule _discountCompatibleRule;
+        public List<IDiscountCompatibleRule> _discountCompatibleRules;
+     
         public List<IDiscount> _discounts;
         public void GetAllDiscount(List<ItemWithCost> items)
-        { }
+        {
+            foreach(var item in items)
+            {
+                foreach (var _discountCompatibleRule in _discountCompatibleRules)
+                {
+                    //проверка на совместимость
+                }
+            }
+        
+        }
 
     }
     public class Purchase
